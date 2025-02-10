@@ -1,5 +1,7 @@
 # dopple.ai
 
+I would be really happy if the project I developed could help people.
+
 
 
 ## Getting started
